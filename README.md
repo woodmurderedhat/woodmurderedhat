@@ -2,7 +2,7 @@
 - 👀 I’m interested in visual design.
 - 🌱 I’m currently learning 3d animation.
 - 💞️ I’m looking to collaborate on building a better and brighter future. 
-- 📫 Email: imurderedthatunicorn@gmail.com
+- 📫 Email: woodmurderedhat@gmail.com
 
 <!---
 woodmurderedhat/woodmurderedhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
